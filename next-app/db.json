@@ -9,6 +9,16 @@
       "id": 2,
       "title": "css",
       "body": "css is ..."
+    },
+    {
+      "title": "asdsa",
+      "body": "sadadd",
+      "id": 3
+    },
+    {
+      "title": "react",
+      "body": "react is ...",
+      "id": 4
     }
   ],
   "posts": [
